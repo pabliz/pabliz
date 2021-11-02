@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, this is Paolo 👋
 
 <!--
 **pabliz/pabliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a junior web designer and front-end developer.
+
+I’m interested in perfecting my skills in interactions design, JavaScript animations and WebGL/HTML integration.
+
+My background is in music, having been a songwriter, a music producer, an electronic music composer and a sound designer specialized in video-games interactive sound.
+This focus on time and the hearing process is a big influence on my web projects.
+
+- 🔭 I’m currently working on a couple web projects.
+- 🌱 I’m currently learning how to make visuals using JavaScript.
